@@ -9,7 +9,7 @@
 * 🎓 B.Tech CSE (AI & ML) Student
 * 💻 Passionate about Full-Stack Development
 * 🧠 Active DSA Problem Solver on LeetCode
-* 🌱 Learning Advanced Java & System Design
+* 🌱 Learning Advanced Java 
 * 🚀 Interested in Software Development Roles
 
 ---
@@ -37,6 +37,18 @@
 * Computer Networks
 
 ---
+## 💡 LeetCode Journey
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/akshaya_620?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+## 🎓 Education & Experience
+
+| Category | Details |
+|----------|---------|
+| 🎓 Education | B.Tech – Computer Science Engineering (AI & ML), CVR College of Engineering |
+| 🏆 Certification | Oracle Database Design and Programming with SQL |
+| 📚 Focus | MERN Stack, Data Structures & Algorithms, Java |
 
 ## 🔗 Connect With Me
 
@@ -55,6 +67,3 @@ MERN-based hostel booking and management platform.
 
 Real-time ride booking application with fare estimation and tracking.
 
-### Echocelebrate
-
-Collaborative memory video creation platform.
